@@ -20,10 +20,10 @@ const imagesData = [
   { thumb: "img/sl19.jpg", title: "NO.19", type: "Inner Echoes<br>Publication&Photography" },
   { thumb: "img/sl20.jpg", title: "NO.20", type: "Inner Echoes<br>Publication&Photography" },
 { thumb: "img/sl21.jpeg", title: "NO.21", type: "LAST WILL<br>PUBLICATION" },
-  { thumb: "img/sl22.jpEg", title: "NO.22", type: "GIACOMETTI<br>PUBLICATION" },
-  { thumb: "img/sl23.jpEg", title: "NO.23", type: "GIACOMETTI <br>PUBLICATION" },
-  { thumb: "img/sl24.jpEg", title: "NO.24", type: "GIACOMETTI <br>PUBLICATION" },
-  { thumb: "img/sl25.PNG", title: "NO.25", type: "DEAD PIGEON<br>ILLUSTRATION" },
+  { thumb: "img/sl22.jpeg", title: "NO.22", type: "GIACOMETTI<br>PUBLICATION" },
+  { thumb: "img/sl23.jpeg", title: "NO.23", type: "GIACOMETTI <br>PUBLICATION" },
+  { thumb: "img/sl24.jpeg", title: "NO.24", type: "GIACOMETTI <br>PUBLICATION" },
+  { thumb: "img/sl25.png", title: "NO.25", type: "DEAD PIGEON<br>ILLUSTRATION" },
   { thumb: "img/sl26.jpeg", title: "NO.26", type: "DEVINE CREATURES<br>ILLUSTRATION" },
   { thumb: "img/sl27.jpeg", title: "NO.27", type: "DEVINE CREATURES FACES<br>ILLUSTRATION" },
   { thumb: "img/sl28.jpeg", title: "NO.28", type: "DEVINE CREATURES FACES<br>ILLUSTRATION" },
@@ -49,4 +49,5 @@ document.addEventListener("DOMContentLoaded", function () {
     gallery.appendChild(item);
   });
 });
+
 
